@@ -5,6 +5,7 @@ p{
 
 ul{
     justify-content: center;
+    align-items: end;
 }
 #navbar-section{
     color:white;
@@ -70,6 +71,9 @@ img{
 }
 
 @media screen and (max-width: 768px){
+    ul{
+        align-items: center;
+    }
     #header-box{
         width: 100%;
     }
