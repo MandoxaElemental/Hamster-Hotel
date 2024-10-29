@@ -49,6 +49,10 @@ img{
     margin-right:auto;
     color: white;
 }
+#hamser-home{
+    height: 100%;
+    object-fit: cover;
+}
 
 @media screen and (max-width: 1200px){
     #bg2{
@@ -65,7 +69,7 @@ img{
     }
 }
 
-@media screen and (max-width: 760px){
+@media screen and (max-width: 768px){
     #header-box{
         width: 100%;
     }
@@ -90,7 +94,4 @@ p{
         height: 1200px;
     }
 
-    #bg{
-        height: 400px;
-    }
 }
