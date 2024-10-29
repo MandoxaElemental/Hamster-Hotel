@@ -1,6 +1,6 @@
 # Hamster Hotel
 
-### oy Cade (Trey)/Gianpaolo Reinares
+### Gianpaolo Reinares
 ### 10/23/2024
 # "Challenge - Hamster Hotel"
 ### Description: 
