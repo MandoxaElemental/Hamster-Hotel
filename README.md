@@ -22,5 +22,5 @@ Also you must make the website responsive.
 [Hamster Hotel GitHub Repository Link](https://github.com/MandoxaElemental/Hamster-Hotel)
 
 
-This has been Peer Reviewed By: 
-> Comments: 
+This has been Peer Reviewed By: Roy Cade III (Trey)
+> Comments: Code looks good, website is accurate (by my standards) responsiveness works as intended. Great Job
