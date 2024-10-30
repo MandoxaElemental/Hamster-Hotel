@@ -101,6 +101,7 @@ img{
     #package-pics{
         height: 200px;
         object-fit: cover;
+        padding-bottom: 10px;
     }
 p{
     font-size: larger;
