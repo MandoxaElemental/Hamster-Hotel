@@ -1,7 +1,7 @@
 # Hamster Hotel
 
 ### Gianpaolo Reinares
-### 10/23/2024
+### 10/30/2024
 # "Challenge - Hamster Hotel"
 ### Description: 
 In this project, you will take the following mockup and make it into a fully functioning website using bootstrap.
