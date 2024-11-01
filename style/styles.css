@@ -23,6 +23,12 @@ img{
     width: 100%;
 }
 
+#package-pics{
+    height: 250px;
+    object-fit: cover;
+    padding-bottom: 10px;
+}
+
 #header-box{
     position:absolute;
     left:0;
