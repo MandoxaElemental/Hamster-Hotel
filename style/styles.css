@@ -19,6 +19,9 @@ ul{
 .reserve{
     border: solid white;
 }
+.reserve:hover{
+    border: solid rgba(255, 255, 255, 0.500);
+}
 img{
     width: 100%;
 }
